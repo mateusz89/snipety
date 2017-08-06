@@ -1,0 +1,5 @@
+#grad {
+    height: 50px;
+    width: 1000px;
+    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+}
