@@ -1,0 +1,19 @@
+.square {
+    width: 500px;
+    height: 500px;
+    margin: 5px 5px 5px 5px;
+    position: absolute;
+    background-color: orange;
+    
+    
+}
+
+.square1 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    margin-top: 50%;
+    margin-left: 50%;
+}
